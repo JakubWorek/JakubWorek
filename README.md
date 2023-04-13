@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakubWorek
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning: C,C++, Python, JS
+- 🌱 I’m currently learning: C, C++, Python, JS
 - 📫 How to reach me: worekkuba@gmail.com
 
 <!---
