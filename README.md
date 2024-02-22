@@ -4,7 +4,7 @@ https://jakubworek.github.io/portfolio/
 ## About Me
 - 👋 Hi, I’m @JakubWorek
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning: C, C++, Python, JS
+- 🌱 I’m currently learning: ReactJS, TypeScript, Java, Python and many more
 - 📫 How to reach me: worekkuba@gmail.com
 
 <!---
