@@ -11,7 +11,7 @@ https://jakubworek.github.io/portfolio/
 ### 1st semester:
 - [Introduction to Computer Science](https://github.com/JakubWorek/introduction_to_computer_science_course)
 ### 2nd semester:
-- [Data Structures and Algorithsm](https://github.com/JakubWorek/algorithms_and_data_structures_course)
+- [Data Structures and Algorithms](https://github.com/JakubWorek/algorithms_and_data_structures_course)
 - [Imperative Programming](https://github.com/JakubWorek/imperative_programming_course)
 ### 3rd semester:
 - [Introduction to Web Applications](https://github.com/JakubWorek/introduction_to_web_applications)
