@@ -1,6 +1,3 @@
-## My portfolio website
-https://jakubworek.github.io/portfolio/
-
 ## About Me
 - 👋 Hi, I’m @JakubWorek
 - 👀 I’m interested in programming
