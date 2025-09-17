@@ -25,11 +25,11 @@
 - [JavaScript](https://github.com/JakubWorek/javascript_course)
 - [Python](https://github.com/JakubWorek/python_course)
 ### 5th semester:
-- [Introduction to Computer Graphics Programming](https://github.com/JakubWorek/introduction-to-computer-graphics-programming)
-- [Object Oriented Technologies](https://github.com/JakubWorek/object_oriented_technologies)
-- [Artificial Intelligence Basics](https://github.com/JakubWorek/artificial-intelligence-basics)
-- [Concurrency Theory](https://github.com/JakubWorek/concurrency-theory)
-- [Cryptography](https://github.com/JakubWorek/cryptography)
+- [Introduction to Computer Graphics Programming](https://github.com/JakubWorek/introduction_to_computer_graphics_programming_course)
+- [Object Oriented Technologies](https://github.com/JakubWorek/object_oriented_technologies_course)
+- [Artificial Intelligence Basics](https://github.com/JakubWorek/artificial_intelligence_basics_course)
+- [Concurrency Theory](https://github.com/JakubWorek/concurrency_theory_course)
+- [Cryptography](https://github.com/JakubWorek/cryptography_course)
 <!---
 JakubWorek/JakubWorek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
