@@ -30,6 +30,9 @@
 - [Artificial Intelligence Basics](https://github.com/JakubWorek/artificial_intelligence_basics_course)
 - [Concurrency Theory](https://github.com/JakubWorek/concurrency_theory_course)
 - [Cryptography](https://github.com/JakubWorek/cryptography_course)
+### 6th semester:
+- [Machine Learning Basics](https://github.com/JakubWorek/machine_learning_basics_course)
+- [Distributed Systems](https://github.com/JakubWorek/distributed_systems_course)
 <!---
 JakubWorek/JakubWorek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
