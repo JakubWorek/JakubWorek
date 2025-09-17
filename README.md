@@ -25,9 +25,9 @@
 - [JavaScript](https://github.com/JakubWorek/javascript_course)
 - [Python](https://github.com/JakubWorek/python_course)
 ### 5th semester:
-- [Introduction to computer graphics programming](https://github.com/JakubWorek/introduction-to-computer-graphics-programming)
-- [Artificial Intelligence Basics](https://github.com/JakubWorek/artificial-intelligence-basics)
+- [Introduction to Computer Graphics Programming](https://github.com/JakubWorek/introduction-to-computer-graphics-programming)
 - [Object Oriented Technologies](https://github.com/JakubWorek/object_oriented_technologies)
+- [Artificial Intelligence Basics](https://github.com/JakubWorek/artificial-intelligence-basics)
 - [Concurrency Theory](https://github.com/JakubWorek/concurrency-theory)
 - [Cryptography](https://github.com/JakubWorek/cryptography)
 <!---
