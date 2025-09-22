@@ -130,6 +130,17 @@
 
 ###
 
+<h2 align="center">My stats</h2>
+
+###
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html"/>
+</div>
+
+###
+
 <h2 align="center">Repositories for my college friends:</h2>
 
 ###
