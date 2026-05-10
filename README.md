@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">SWE @ Medius | Board Member & Developer @ KN BIT | CS Student @ AGH</h3>
+<h3 align="center">SWE @ Google | CS Student @ AGH</h3>
 
 ###
 
@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jakub-worek-531611173/" target="_blank">
+  <a href="https://www.linkedin.com/in/jakub-worek/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100010008002565" target="_blank">
@@ -126,17 +126,6 @@
   <a href="worekkuba@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="center">My stats</h2>
-
-###
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html"/>
 </div>
 
 ###
