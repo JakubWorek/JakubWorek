@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kuba</h1>
+<h1 align="center">Hi, I'm Kuba 👋</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="center">Technologies I've worked with</h2>
+<h2 align="center">Technologies I've worked with and tools I've used</h2>
 
 ###
 
@@ -130,7 +130,21 @@
 
 ###
 
-<h2 align="center">Repositories for my college friends:</h2>
+<h2 align="center">My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="JakubWorek's Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakubWorek&theme=vue-dark&hide_border=false&include_all_commits=true" alt="JakubWorek's Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook,html&include_all_commits=true" alt="JakubWorek's Top Languages" />
+</div>
+
+###
+
+<!-- <h2 align="center">Repositories for my college friends:</h2>
 
 ###
 
@@ -161,7 +175,7 @@
 - [Cryptography](https://github.com/JakubWorek/cryptography_course)
 ### 6th semester:
 - [Machine Learning Basics](https://github.com/JakubWorek/machine_learning_basics_course)
-- [Distributed Systems](https://github.com/JakubWorek/distributed_systems_course)
+- [Distributed Systems](https://github.com/JakubWorek/distributed_systems_course) -->
 <!---
 JakubWorek/JakubWorek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
