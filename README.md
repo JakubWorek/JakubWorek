@@ -130,19 +130,19 @@
 
 ###
 
-<h2 align="center">My Stats</h2>
+<!-- <h2 align="center">My Stats</h2>
 
 ###
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="JakubWorek's Stats" />
-  <br/><br/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="JakubWorek's Stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakubWorek&theme=vue-dark&hide_border=false&include_all_commits=true" alt="JakubWorek's Streak" />
-  <!-- <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook,html&include_all_commits=true" alt="JakubWorek's Top Languages" /> -->
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubWorek&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook,html&include_all_commits=true" alt="JakubWorek's Top Languages" />
 </div>
 
-###
+### -->
 
 <!-- <h2 align="center">Repositories for my college friends:</h2>
 
