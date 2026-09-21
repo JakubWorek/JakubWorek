@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">SWE @ Google | CS Student @ AGH</h3>
+<h3 align="center">SWE @ Google | CS Student @ WUT</h3>
 
 ###
 
